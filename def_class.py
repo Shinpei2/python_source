@@ -35,4 +35,3 @@ if __name__ == "__main__":
     print(m1.possition)
     m1.swimming()
     print(Member.count)
-
