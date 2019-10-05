@@ -1,0 +1,6 @@
+text2.txt
+text 2
+line 2
+part 2
+art 2
+2

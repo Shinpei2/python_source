@@ -1,0 +1,6 @@
+text1.txt
+text 1
+line 1
+part 1
+art 1
+1
