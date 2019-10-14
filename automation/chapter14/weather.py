@@ -9,7 +9,7 @@ if len(sys.argv) < 2:
 location = ' '.join(sys.argv[1:])
 
 # APIキーの定義
-APPID = '052e4193c260cff5a17c4bebf7515a8e'
+APPID = ''
 
 # TODO:OpenWeatherMap.orgのAPIからJSONデータをダウンロードする
 url = f'http://api.openweathermap.org/data/2.5/weather?q={location}&appid={APPID}'
