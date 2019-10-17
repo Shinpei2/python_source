@@ -20,8 +20,8 @@ smtp_o.login(address, pw)
 # create email-text
 # Japanese support
 charset = 'iso-2022-jp'
-subject = '日報の更新'
-text = 'お疲れ様です。高橋です。日報の更新が完了しましたので、報告いたします。'
+subject = '日報の'
+text = 'お疲れ様です。AAです。日報の更新が完了しましたので、報告いたします。'
 msg = MIMEText(text, 'plain', charset)
 msg['Subject'] = Header(subject.encode(charset), charset)
 
